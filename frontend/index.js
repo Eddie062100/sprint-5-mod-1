@@ -20,7 +20,7 @@ function moduleProject1() {
   const widget4 = document.querySelector('.friends')
   widget4.classList.add('widget')
 
-
+//welp
   // 👉 TASK 2 - Build a "Quote of the Day" widget
   //  ✨ add your code here
   const randomIndx = Math.floor(Math.random() * quotes.length)
